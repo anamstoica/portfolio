@@ -1,3 +1,4 @@
+import '../global.css';
 export default function ProjectsLayout({
 	children,
 }: { children: React.ReactNode }) {
